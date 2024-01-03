@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- src/test/resources/testng.xml -->
+
+
+<suite name="StarHealthSuite">
+    <test name="starhealth001">
+        <classes>
+            <class name="com.example.tests.StarHealthTest"/>
+        </classes>
+    </test>
+</suite>
